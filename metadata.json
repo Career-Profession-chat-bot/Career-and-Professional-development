@@ -1,0 +1,6 @@
+{
+  "name": "CAREEROS AI",
+  "description": "Advanced AI-powered Career Professional & Development Operating System for career discovery, skills, projects, interviews, and long-term growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
