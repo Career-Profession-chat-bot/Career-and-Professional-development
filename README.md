@@ -58,5 +58,6 @@ JOB READINESS
     ↓
 CAREER GROWTH
 
-## Live Project Link:
-https://career-and-professional-development.vercel.app/
+## Live Project
+
+[Open Project](https://career-and-professional-development.vercel.app/)
