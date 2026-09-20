@@ -39,7 +39,7 @@ CAREEROS AI asks:
 
 ### 🎯 Core Philosophy
 
-```text
+
 CONFUSION
     ↓
 CLARITY
@@ -60,4 +60,4 @@ CAREER GROWTH
 
 ## Live Project
 
-[Open Project](https://career-and-professional-development.vercel.app/)
+ (https://career-and-professional-development.vercel.app/)
